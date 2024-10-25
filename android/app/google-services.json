@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352594857715",
+    "project_id": "codelabmodul",
+    "storage_bucket": "codelabmodul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352594857715:android:7645c6520491c40f14f186",
+        "android_client_info": {
+          "package_name": "flutterproject.codelamodul3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxqQUfCKRSXmb-RdYzz0sTNI3xHLUrlro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
